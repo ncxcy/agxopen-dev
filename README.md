@@ -15,9 +15,6 @@ agxopen-dev is still under development and in future WILL be working GPU driver 
 
 ![SoC](https://img.shields.io/badge/SoC-Apple_M4-555555?style=flat-square&logo=apple&logoColor=white)
 ![GPU](https://img.shields.io/badge/GPU-AGX_G16G-555555?style=flat-square)
-![Device](https://img.shields.io/badge/device-Mac16,1-555555?style=flat-square)
-![Kernelcache](https://img.shields.io/badge/kernelcache_build-24G90-555555?style=flat-square)
-![Device tree](https://img.shields.io/badge/device_tree_build-26A428-555555?style=flat-square)
 
 ![Kernel module](https://img.shields.io/badge/kernel_module-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Host tools](https://img.shields.io/badge/host_tools-C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
