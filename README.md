@@ -434,7 +434,7 @@ make clean
 make install
 ```
 
-The module builds with `W=1` and `-Werror` against Ubuntu kernel headers for 6.8 and 7.0 on x86_64
+The module builds with `W=1` and `-Werror` against Ubuntu kernel headers for 6.8 and 7.0 on ARM64
 
 ### Build the host tools
 
