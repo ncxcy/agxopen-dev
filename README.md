@@ -771,7 +771,7 @@ When reporting findings include the macOS build and device identifier and binary
 No. It is Linux code, the analysis was static and nothing in this repository runs on or changes macOS.
 
 **Can I run this on my M4 Mac today?**
-Barely yes. The agxopen-dev was ran on hardware and it's tested by testers and full bring up depends on my project, for now it's still BARELY (agxopen-dev). See [Roadmap](#roadmap).
+Barely, but no display outpout for now it's dev build. The agxopen-dev was ran on hardware and it's tested by testers and full bring up depends on my project, for now it's still BARELY and no display outpout (agxopen-dev). See [Roadmap](#roadmap).
 
 **Does this give me a working GPU driver?**
 No for now, im still reversing some binaries. For now it just covers the mailbox and the coprocessor startup and the first GPU messages. That is the foundation and not the driver 
