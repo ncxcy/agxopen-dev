@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./agxopendev.png" width="250">
+  <img src="./agxopendev.png" width="540">
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@ agxopen-dev is still under development and in future WILL be working GPU driver 
 <br>
 
 ![Version](https://img.shields.io/badge/version-1.3.2--dev-2ea44f?style=flat-square)
-![Status](https://img.shields.io/badge/status-in_development-purple?style=flat-square)
+![Status](https://img.shields.io/badge/status-IN_DEVELOPMENT-purple?style=flat-square)
 ![License](https://img.shields.io/badge/license-GPL_v2-blue?style=flat-square&logo=gnu&logoColor=white)
 ![Open Source](https://img.shields.io/badge/open_source-yes-brightgreen?style=flat-square)
 
@@ -22,11 +22,7 @@ agxopen-dev is still under development and in future WILL be working GPU driver 
 
 ![Kernel module](https://img.shields.io/badge/kernel_module-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Host tools](https://img.shields.io/badge/host_tools-C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Target](https://img.shields.io/badge/target-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Upstream](https://img.shields.io/badge/upstream-Asahi_Linux-8A2BE2?style=flat-square)
 
-![Checks](https://img.shields.io/badge/checks-361_passing-2ea44f?style=flat-square)
-![Sanitizers](https://img.shields.io/badge/sanitizers-ASAN_UBSAN_TSAN_clean-2ea44f?style=flat-square)
 ![Kernel build](https://img.shields.io/badge/kernel_build-6.8_and_7.0_headers-2ea44f?style=flat-square)
 ![Hardware](https://img.shields.io/badge/hardware_tested-yes_testers_tested_it-blue?style=flat-square)
 
