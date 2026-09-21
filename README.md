@@ -1,10 +1,8 @@
-<div align="center">
-
 <p align="center">
-  <img src="https://files.catbox.moe/5sdba6.png" width="900">
+  <img src="./banner.png" width="900">
 </p>
 
-<br><br>
+<div align="center">
 
 # agxopen-dev
 
