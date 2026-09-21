@@ -52,7 +52,7 @@ What the project does and does not do:
 | | |
 | --- | --- |
 | **Project** | agxopendev with module name `agxrtbuddy` |
-| **Version** | 0.1.0 alpha |
+| **Version** | 1.3.2 dev build |
 | **Maturity** | Early stage reverse engineering and not a finished driver |
 | **Target hardware** | Apple M4 with GPU family AGX G16G (T8132) |
 | **Analysed device** | Mac16,1 |
