@@ -1,0 +1,19 @@
+#include <dt-bindings/interrupt-controller/apple-aic.h>
+#include <dt-bindings/interrupt-controller/irq.h>
+
+&soc {
+	gfx_asc: gfx-asc@302600000 {
+		compatible = "apple,t8132-gfx-asc";
+		reg = <0x3 0x02600000 0x0 0x88000>,
+		      <0x3 0x02050000 0x0 0x8>;
+		reg-names = "asc", "rvbar";
+		interrupt-parent = <&aic>;
+		interrupts = <AIC_IRQ 993 IRQ_TYPE_LEVEL_HIGH>,
+			     <AIC_IRQ 994 IRQ_TYPE_LEVEL_HIGH>,
+			     <AIC_IRQ 995 IRQ_TYPE_LEVEL_HIGH>,
+			     <AIC_IRQ 996 IRQ_TYPE_LEVEL_HIGH>;
+		interrupt-names = "send-empty", "send-not-empty",
+				  "recv-empty", "recv-not-empty";
+		power-domains = <&ps_gfx>;
+	};
+};
