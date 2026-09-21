@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./agxopendev.png" width="900">
+  <img src="./agxopendev.png" width="250">
 </p>
 
 <div align="center">
